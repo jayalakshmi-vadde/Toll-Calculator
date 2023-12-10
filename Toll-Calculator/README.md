@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/sanajitjana/Geektrust-Toll-Calculator">
+  <a href="https://github.com/jayalakshmi-vadde/Toll-Calculator.git">
     <img src="https://user-images.githubusercontent.com/76105799/212701060-aa4dca7e-23e0-4595-b543-a0d8e43fec26.png" alt="Logo" width="80" height="80">
   </a>
 
